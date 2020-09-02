@@ -23,6 +23,6 @@ For that we have to create a proper and clean dataset as follows.
 5. This code will trained the model and save it for further use.
 
 
-#Face_Rec_Final.py
+# Face_Rec_Final.py
 This code will load the model and predict the output(name of that person).
 
